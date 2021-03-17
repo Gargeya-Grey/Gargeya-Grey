@@ -2,7 +2,7 @@
 - 👀 I’m fanatic about Deep learning, along with that I love working with any kind of Data, just because I don't know anything about it, the mystery excites me in such a way that I wanna start communicating with data. Due to this, I am constantly amileorating my Data science skills.
 - 🌱 I’m currently learning **Machine learning intergration with DevOps and Cloud**, to make fully functional Tier 2 ML Systems.
 - 💞️ I’m looking to collaborate on Data Science, Machine learning, Deep learing, Intergration of AI with Cloud.
-- 📫 In case, you wish to reach me, contact me on: <br> [Gmail](gargeyablk16@gmail.com)<br>[LinkedIn](https://www.linkedin.com/in/gargeya-sharma-4159801a3/)
+- 📫 In case, you wish to reach me, contact me on: <br> gargeyablk16@gmail.com<br>[LinkedIn](https://www.linkedin.com/in/gargeya-sharma-4159801a3/)
 
 **More about me:**<br>
 Above provided information is enough to get a gist about me but here I wanna tell you a little more about myself, because this is only way I can communicate with you for the first time. I like making myself clear and transparent.

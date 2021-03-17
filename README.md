@@ -1,5 +1,5 @@
 - 👋 Hi, Hola, I’m Gargeya Sharma, a Computer science Engineering Student in India
-- 👀 I’m fanatic about Deep learning, along with that I love working with any kind of Data, just because I don't know anything about it, the mystry excites me in such a way that I wanna start communicating with data. Due to this, I am constantly amileorating my Data science skills.
+- 👀 I’m fanatic about Deep learning, along with that I love working with any kind of Data, just because I don't know anything about it, the mystery excites me in such a way that I wanna start communicating with data. Due to this, I am constantly amileorating my Data science skills.
 - 🌱 I’m currently learning **Machine learning intergration with DevOps and Cloud**, to make fully functional Tier 2 ML Systems.
 - 💞️ I’m looking to collaborate on Data Science, Machine learning, Deep learing, Intergration of AI with Cloud.
 - 📫 In case, you wish to reach me, contact me on: <br> [Gmail](gargeyablk16@gmail.com)<br>[LinkedIn](https://www.linkedin.com/in/gargeya-sharma-4159801a3/)

@@ -1,5 +1,5 @@
-- 👋 Hi, Hola, I’m Gargeya Sharma (Grey), a masters student at Queen Mary University of London in Artificial Intelligence
-- 👀 I’m fanatic about Deep learning especially with visual data, along with that I love working with any kind of Data, just because I don't know anything about it, the mystery excites me in such a way that I wanna start communicating with data. Due to this, I am constantly amileorating my Data science skills.
+- 👋 Hi, Hola, I’m Gargeya Sharma (Grey), a master's graduate with distinction from Queen Mary University of London in Artificial Intelligence (Computer Vision, LLM and Reinforcement Learning)
+- 👀 I’m fanatic about Deep learning especially with visual data and Large Language Transformer Model fine tuning, along with that I love working with any kind of Data, just because I don't know anything about it, the mystery excites me in such a way that I wanna start communicating with data. Due to this, I am constantly amileorating my Data science skills.
 - 🌱 I’m currently learning **Machine learning intergration with DevOps and Cloud**, to make fully functional Tier 2 ML Systems.
 - 💞️ I’m looking to collaborate on Data Science, Machine learning, Deep learning, Intergration of AI with Cloud.
 - 📫 In case, you wish to reach me, contact me on: <br> gargeyablk16@gmail.com<br>[LinkedIn](https://www.linkedin.com/in/gargeya-sharma/)

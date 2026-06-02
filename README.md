@@ -14,14 +14,24 @@ I specialize in **Agentic LLM Architectures, Computer Vision, and Reinforcement 
 
 ## ⚡ What I'm Building & Driving
 
-### 🧠 [Edudojo.ai](https://edudojo.ai) — *Founder & Lead AI Architect*
+### 🧠 [Edudojo.ai](https://edudojo.ai) — *Founder & Lead AI Architect* (Nov 2025 – Present)
 * **The Mission:** Shifting EdTech from punitive plagiarism detection to authentic Socratic evaluation. We grade the student’s learning process, not just the final output, localized in **English, Hindi, Japanese, and Spanish** to address a unified global education market.
 * **Traction:** Leading an active pilot program serving **2,000+ students** at Parishkar College (Autonomous), aligning directly with India's NEP 2020 formative assessment directives.
 * **Tech Stack:** Next.js, Framer Motion, Supabase, GenAI Agents (built with Google ADK), Google Cloud Telemetry, Google Voice Stack (Primary) with BHASHINI (Secondary regional routing).
 
-### 📊 Data Automation & AI Consulting
-* **FinTech Optimization:** Engineered enterprise data pipelines and real-time dashboards (Dash/Plotly/SQL) processing **10M+ rows** of transaction data for **15+ global Tier-1 banks** (including JPMorgan Chase, Goldman Sachs, HSBC, and Citi). Accelerated product iteration by **20x** and saved **5+ hours of daily overhead**.
-* **Physical AI Research:** Consulted at Imperial College London's Flapping Wing MAV Lab. Developed data-driven, modeless control algorithms for bionic micro-aerial vehicles.
+---
+
+## 💼 Past Milestones & Experience
+
+### 🤖 Evvolv — *Founding AI Engineer / Member* (Nov 2025 – May 2026)
+* **The Mission:** Co-founded and engineered a core multi-agent platform designed to deploy autonomous AI workers to automate complex business workflows for Small and Medium Enterprises (SMEs).
+* **Tech Stack:** n8n, Multi-Agent Systems, Agentic Workflows, System Automation.
+
+### 📊 RVS Consensus+ — *Data Scientist & Automation Specialist* (Jul 2024 – Nov 2025)
+* **FinTech Optimization:** Engineered enterprise data pipelines and real-time dashboards (Dash/Plotly/SQL) processing **10M+ rows** of transaction data for **15+ global Tier-1 banks** (including JPMorgan, Goldman Sachs, HSBC, and Citi). Accelerated product iteration by **20x** and saved **5+ hours of daily operational overhead**.
+
+### 🛸 Imperial College London — *Machine Learning Consultant* (Jul 2023 – Oct 2023)
+* **Physical AI Research:** Consulted at the Flapping Wing MAV Lab. Developed a data-driven, modeless flight control approach for bionic flapping-wing micro-aerial vehicles, merging deep reinforcement learning with physical systems.
 
 ---
 

@@ -1,23 +1,69 @@
-- 👋 Hi, Hola, I’m Gargeya Sharma (Grey), a master's graduate with distinction from Queen Mary University of London in Artificial Intelligence (Computer Vision, LLM and Reinforcement Learning)
-- 👀 I’m fanatic about Deep learning especially with visual data and Large Language Transformer Model fine tuning, along with that I love working with any kind of Data, just because I don't know anything about it, the mystery excites me in such a way that I wanna start communicating with data. Due to this, I am constantly amileorating my Data science skills.
-- 🌱 I’m currently learning **Machine learning intergration with DevOps and Cloud**, to make fully functional Tier 2 ML Systems.
-- 💞️ I’m looking to collaborate on Data Science, Machine learning, Deep learning, Intergration of AI with Cloud.
-- 📫 In case, you wish to reach me, contact me on: <br> gargeyablk16@gmail.com<br>[LinkedIn](https://www.linkedin.com/in/gargeya-sharma/)
+# Gargeya Sharma
+### **Architecting Intelligence. Curating Art.**
 
-**More about me:**<br>
-Above provided information is enough to get a gist about me but here I wanna tell you a little more about myself, because this is only way I can communicate with you for the first time. I like making myself clear and transparent.
-I am an artist particularly in the field of Theatre, Acting in general along with Music and Dance. To stand on my feet before living my passion, I was advised to study engineering because I had Science, Maths with me in High school,
-along with good IQ. I listened to the advice and get introduced with the whole new limitless world of computer science. 
+*Founder & Lead AI Architect @ [Edudojo.ai](https://edudojo.ai) | Data Scientist & Machine Learning Specialist*
 
-I am a **Philomath** (loves any kind of learning) so I started understanding various technologies, amoung all the fields,
-I fall in love with AI, to be more specific **Deep learning** and Neural Nets. Not just because they seems cools or something, in addition to being cool, I loved how they are at a very early stage trying to mimic the functioning of our brain. Now to be open about it,
-I was always in love with **human psychology** in secret. So this technology, this field let me uncover that hidden love for psychology and gave me a *"will of fire"* you can say, *to make something extraordinary for this society using neural nets*. From that day onwards,
-I have been studying AI *all day, all night* with such an exponential pace, passion and excitement that **I feel proud of my self** and I am planning to remain the same and live this newly found passion of mine to its completion before getting distracted by any other thing.
+---
 
-That was a small intro to **WHO I AM and HOW I STARTED DATA SCIENCE AND AI**.
+## 🚀 The Core Philosophy
+I bridge the gap between **technical depth (IQ)** and **human intuition (EQ)**. With a background starting in professional **Theatre** and evolving into **Artificial Intelligence**, I design systems that don't just calculate, but communicate, adapt, and teach. 
 
-Thank you for reading and letting me reach out to YOU.
-<!---
-Stalwart-GS/Stalwart-GS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I specialize in **Agentic LLM Architectures, Computer Vision, and Reinforcement Learning**, focused on building the future of process-oriented EdTech.
+
+---
+
+## ⚡ What I'm Building & Driving
+
+### 🧠 [Edudojo.ai](https://edudojo.ai) — *Founder & Lead AI Architect*
+* **The Mission:** Shifting EdTech from punitive plagiarism detection to authentic Socratic evaluation. We grade the student’s learning process, not just the final output, localized in **English, Hindi, Japanese, and Spanish** to address a unified global education market.
+* **Traction:** Leading an active pilot program serving **2,000+ students** at Parishkar College (Autonomous), aligning directly with India's NEP 2020 formative assessment directives.
+* **Tech Stack:** Next.js, Framer Motion, Supabase, GenAI Agents (built with Google ADK), Google Cloud Telemetry, Google Voice Stack (Primary) with BHASHINI (Secondary regional routing).
+
+### 📊 Data Automation & AI Consulting
+* **FinTech Optimization:** Engineered enterprise data pipelines and real-time dashboards (Dash/Plotly/SQL) processing **10M+ rows** of transaction data for **15+ global Tier-1 banks** (including JPMorgan Chase, Goldman Sachs, HSBC, and Citi). Accelerated product iteration by **20x** and saved **5+ hours of daily overhead**.
+* **Physical AI Research:** Consulted at Imperial College London's Flapping Wing MAV Lab. Developed data-driven, modeless control algorithms for bionic micro-aerial vehicles.
+
+---
+
+## 🛠️ The Toolkit
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>💻 Engineering & Modeling</h3>
+      <ul>
+        <li><b>Languages:</b> Python, SQL, TypeScript, JavaScript, HTML/CSS</li>
+        <li><b>AI & ML:</b> PyTorch, TensorFlow, GenAI, LLMs, NLP, Computer Vision, RL</li>
+        <li><b>Data Science:</b> Pandas, NumPy, Dash (Plotly), Scikit-Learn</li>
+        <li><b>Infrastructure:</b> Docker, Git, CI/CD, Cloud Deployment</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🎭 Leadership & High EQ</h3>
+      <ul>
+        <li><b>Product Strategy:</b> Educational Methodology, NEP 2020 Integration</li>
+        <li><b>High-Pressure Operations:</b> Social calibration, client relations (perfected in high-stress VIP hospitality and London stage productions)</li>
+        <li><b>Technical Writing:</b> Published machine learning author (Analytics Vidhya, Medium)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔬 Featured Open-Source Projects
+
+* 💻 **[Portfolio-CV-Webpage](https://github.com/Gargeya-Grey/Portfolio-CV-Webpage)** — The open-source codebase behind my interactive, premium digital CV at [cv.sgargeya.com](https://cv.sgargeya.com), built with Next.js, Framer Motion, and Tailwind CSS.
+* 🌐 **[Personal-Brand-Website](https://github.com/Gargeya-Grey/Personal-Brand-Website)** — The command center and codebase for my primary digital presence, hosted at [sgargeya.com](https://sgargeya.com).
+* 🛠️ **[Documenter-MCP](https://github.com/Gargeya-Grey/Documenter-MCP)** — An MCP (Model Context Protocol) server designed to scan repositories and dynamically evaluate and improve codebase documentation using LLMs.
+* 🎓 **[msc-ai-research](https://github.com/Gargeya-Grey/msc-ai-research)** — Master's dissertation research codebase from Queen Mary University of London, exploring deep reinforcement learning and computer vision architectures.
+* 🧹 **[DataCleanOpenEnv](https://github.com/Gargeya-Grey/DataCleanOpenEnv)** — Submission for the OpenEnv Hackathon (Meta x Hugging Face x Scaler School) specializing in automated data cleaning pipelines.
+* 🎨 **[neural-style-transfer](https://github.com/Gargeya-Grey/neural-style-transfer)** — Art meets AI: Implementation of neural artistic style transfer utilizing custom VGG-19 features and Gram matrix optimizations.
+
+---
+
+## 📬 Connect with Me
+
+* **Website:** [sgargeya.com](https://sgargeya.com)
+* **LinkedIn:** [/in/gargeya-sharma](https://linkedin.com/in/gargeya-sharma)
+* **Email:** [gargeya.sharma@gmail.com](mailto:gargeya.sharma@gmail.com)

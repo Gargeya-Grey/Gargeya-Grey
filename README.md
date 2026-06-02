@@ -14,7 +14,7 @@ I specialize in **Agentic LLM Architectures, Computer Vision, and Reinforcement 
 
 ## ⚡ What I'm Building & Driving
 
-### 🧠 [Edudojo.ai](https://edudojo.ai) — *Founder & Lead AI Architect* (Nov 2025 – Present)
+### 🧠 [Edudojo.ai](https://edudojo.ai) — *Founder & Lead AI Architect* (May 2026 – Present)
 * **The Mission:** Shifting EdTech from punitive plagiarism detection to authentic Socratic evaluation. We grade the student’s learning process, not just the final output, localized in **English, Hindi, Japanese, and Spanish** to address a unified global education market.
 * **Traction:** Leading an active pilot program serving **2,000+ students** at Parishkar College (Autonomous), aligning directly with India's NEP 2020 formative assessment directives.
 * **Tech Stack:** Next.js, Framer Motion, Supabase, GenAI Agents (built with Google ADK), Google Cloud Telemetry, Google Voice Stack (Primary) with BHASHINI (Secondary regional routing).

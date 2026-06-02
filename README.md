@@ -53,7 +53,7 @@ I specialize in **Agentic LLM Architectures, Computer Vision, and Reinforcement 
       <ul>
         <li><b>Product Strategy:</b> Educational Methodology, NEP 2020 Integration</li>
         <li><b>High-Pressure Operations:</b> Social calibration, client relations (perfected in high-stress VIP hospitality and London stage productions)</li>
-        <li><b>Technical Writing:</b> Published machine learning author (Analytics Vidhya, Medium)</li>
+        <li><b>Technical Writing:</b> Published machine learning author (17+ articles on Analytics Vidhya)</li>
       </ul>
     </td>
   </tr>

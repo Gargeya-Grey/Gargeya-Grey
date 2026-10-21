@@ -74,10 +74,11 @@ AI tutoring that asks instead of tells · process-based assessment · alternativ
 
 - **2026 to now:** Founder, [Edudojo](https://edudojo.ai).
 - **2025 to 2026:** Founding AI Engineer at Evvolv. Built multi-agent "AI workers" that automate everyday workflows for small and medium businesses.
-- **2024 to 2025:** Data Scientist and Automation Specialist at RVS Consensus+. Data pipelines and live dashboards (Dash, Plotly, SQL) over 10M+ rows of transaction data for 15+ global Tier-1 banks, plus automation that saved 5+ hours a day.
+- **2024 to 2025:** Data Scientist and Automation Specialist at RVS Consensus+. Data pipelines and live dashboards (Dash, Plotly, SQL) over 10M+ rows of transaction data for 15+ global Tier-1 banks, among them four of the 29 banks the Financial Stability Board names as [globally systemically important](https://www.fsb.org/2025/11/2025-list-of-global-systemically-important-banks/), plus automation that saved 5+ hours a day.
 - **2023:** Machine Learning Consultant at Imperial College London, on data-driven flight control for flapping-wing micro air vehicles.
 - **2022 to 2023:** MSc in Artificial Intelligence, Queen Mary University of London (Distinction).
 - **2018 to 2022:** B.Tech in Computer Science, UPES (Honors).
+- **Before AI:** I started in professional theatre, which is why I care so much about how a system speaks, listens and teaches.
 - **Along the way:** three years of bartending in London, which taught me more about reading people than any textbook. I also wrote [17 articles on data science and machine learning on Analytics Vidhya](https://www.analyticsvidhya.com/blog/author/gargeya/).
 
 **Toolkit:** Python, SQL, TypeScript, PyTorch, TensorFlow, LLMs and agents (MCP, n8n), computer vision, reinforcement learning, Next.js, Android (Kotlin), Docker, Git, CI/CD.

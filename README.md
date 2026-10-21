@@ -31,7 +31,7 @@ The coach asks students questions until the thinking is theirs. Teachers can rep
 - **Red Team mode.** Now and then the coach slips in one small weak step, unannounced, and the student has to catch it.
 - **Built for English and Hindi**, which is what the pilot will test.
 
-**Where it stands today:** beta, with a first pilot planned at Parishkar College, Jaipur, a college of 3,000+ students that is Edudojo's research partner. The pilot is there to test usability in English and Hindi, reliability, teacher workload and running cost. I don't claim learning gains, authorship verification or valid grades. Details on the [pilot page](https://edudojo.ai/pilot).
+**Where it stands today:** Edudojo is in beta. I'm working with Parishkar College, Jaipur, as our research partner, and the [pilot page](https://edudojo.ai/pilot) always has the current status. The pilot tests usability in English and Hindi, reliability, teacher workload and running cost. I don't claim learning gains, authorship verification or valid grades.
 
 **Under the hood:** the coach agents are built with Google ADK, with Supabase for data, Vercel and Google Cloud for hosting and services, and models routed through OpenRouter.
 

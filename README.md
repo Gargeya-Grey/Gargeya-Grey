@@ -29,7 +29,7 @@ The coach asks students questions until the thinking is theirs. Teachers can rep
 - **Coach, not ghostwriter.** It questions weak reasoning instead of rewriting it.
 - **Draft history and teacher Replay.** Every version is kept, so you assess the process, not only the final text.
 - **Red Team mode.** Now and then the coach slips in one small weak step, unannounced, and the student has to catch it.
-- **Built for English and Hindi**, which is what the pilot will test.
+- **Built for English and Hindi**, which is what the pilot tests.
 
 **Where it stands today:** Edudojo is in beta. I'm working with Parishkar College, Jaipur, as our research partner, and the [pilot page](https://edudojo.ai/pilot) always has the current status. The pilot tests usability in English and Hindi, reliability, teacher workload and running cost. I don't claim learning gains, authorship verification or valid grades.
 
